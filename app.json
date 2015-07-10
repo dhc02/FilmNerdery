@@ -1,13 +1,13 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
-  "logo": "http://www.telescopeapp.org/images/logo.png",
-  "keywords": ["meteor", "social", "community"],
+  "name": "FilmNerdery",
+  "description": "Because Pretty Moving Pictures",
+  "repository": "https://github.com/dhc02/FilmNerdery",
+  "logo": "https://dl.dropboxusercontent.com/u/2175278/1436560787_video-camera.png",
+  "keywords": ["meteor", "social", "community", "film", "video"],
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
-      "description": "filmnerdery.herokuapp.com"
+      "description": "filmnerdery.com"
     }
   },
   "addons": [
